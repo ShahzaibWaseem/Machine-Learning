@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 ### Files that were edited:
 
 - plotData.m - Function to plot 2D classification data
